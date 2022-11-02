@@ -3,11 +3,6 @@ spring:
   data:
     mongodb:
       uri: mongodb://34.93.233.183:27017/gamesdb
-  zipkin:
-    baseUrl: http://localhost:9411
-  sleuth:
-    sampler:
-      probability: 1.0
     
 server:
   port: 0
