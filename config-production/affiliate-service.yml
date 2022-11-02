@@ -13,11 +13,6 @@ spring:
     driver-class-name: com.mysql.cj.jdbc.Driver
     username: root
     password: 
-  zipkin:
-    baseUrl: http://localhost:9411
-  sleuth:
-    sampler:
-      probability: 1.0
     
 server:
   port: 0
