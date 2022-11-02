@@ -50,7 +50,7 @@ jpwallet:
   walletdepositid: "CW-111-16"
   walletwinningid: "CW-111-17"
   walletbonusid: "CW-111-18"
-
+  walletenv: "dev"
 
 resilience4j:
   circuitbreaker:
